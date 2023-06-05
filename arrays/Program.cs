@@ -6,11 +6,14 @@ class Program
 
     static void Main(string[] args)
     {
-        Object[] random = {"hello", 1, true, false};
-       
-        foreach(object item in random)
+        string name1 = "John";
+        string name2 = "John";
+        if (name1.Equals(name2))
         {
-            Console.WriteLine(item);
+            Console.WriteLine("true");
+        } else
+        {
+            Console.WriteLine("false");
         }
 
     }
