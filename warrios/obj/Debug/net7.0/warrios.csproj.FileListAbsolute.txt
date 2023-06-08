@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\personal-proyects\warrios\obj\Debug\net7.0\warrios.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\personal-proyects\warrios\obj\Debug\net7.0\warrios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\personal-proyects\warrios\obj\Debug\net7.0\warrios.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\personal-proyects\warrios\obj\Debug\net7.0\warrios.AssemblyInfo.cs
+C:\Users\david\source\repos\personal-proyects\warrios\obj\Debug\net7.0\warrios.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\personal-proyects\warrios\bin\Debug\net7.0\warrios.exe
+C:\Users\david\source\repos\personal-proyects\warrios\bin\Debug\net7.0\warrios.deps.json
+C:\Users\david\source\repos\personal-proyects\warrios\bin\Debug\net7.0\warrios.runtimeconfig.json
+C:\Users\david\source\repos\personal-proyects\warrios\bin\Debug\net7.0\warrios.dll
+C:\Users\david\source\repos\personal-proyects\warrios\bin\Debug\net7.0\warrios.pdb
+C:\Users\david\source\repos\personal-proyects\warrios\obj\Debug\net7.0\warrios.dll
+C:\Users\david\source\repos\personal-proyects\warrios\obj\Debug\net7.0\refint\warrios.dll
+C:\Users\david\source\repos\personal-proyects\warrios\obj\Debug\net7.0\warrios.pdb
+C:\Users\david\source\repos\personal-proyects\warrios\obj\Debug\net7.0\warrios.genruntimeconfig.cache
+C:\Users\david\source\repos\personal-proyects\warrios\obj\Debug\net7.0\ref\warrios.dll

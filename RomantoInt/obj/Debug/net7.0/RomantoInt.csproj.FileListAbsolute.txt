@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\personal-proyects\RomantoInt\obj\Debug\net7.0\RomantoInt.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\personal-proyects\RomantoInt\obj\Debug\net7.0\RomantoInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\personal-proyects\RomantoInt\obj\Debug\net7.0\RomantoInt.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\personal-proyects\RomantoInt\obj\Debug\net7.0\RomantoInt.AssemblyInfo.cs
+C:\Users\david\source\repos\personal-proyects\RomantoInt\obj\Debug\net7.0\RomantoInt.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\personal-proyects\RomantoInt\bin\Debug\net7.0\RomantoInt.exe
+C:\Users\david\source\repos\personal-proyects\RomantoInt\bin\Debug\net7.0\RomantoInt.deps.json
+C:\Users\david\source\repos\personal-proyects\RomantoInt\bin\Debug\net7.0\RomantoInt.runtimeconfig.json
+C:\Users\david\source\repos\personal-proyects\RomantoInt\bin\Debug\net7.0\RomantoInt.dll
+C:\Users\david\source\repos\personal-proyects\RomantoInt\bin\Debug\net7.0\RomantoInt.pdb
+C:\Users\david\source\repos\personal-proyects\RomantoInt\obj\Debug\net7.0\RomantoInt.dll
+C:\Users\david\source\repos\personal-proyects\RomantoInt\obj\Debug\net7.0\refint\RomantoInt.dll
+C:\Users\david\source\repos\personal-proyects\RomantoInt\obj\Debug\net7.0\RomantoInt.pdb
+C:\Users\david\source\repos\personal-proyects\RomantoInt\obj\Debug\net7.0\RomantoInt.genruntimeconfig.cache
+C:\Users\david\source\repos\personal-proyects\RomantoInt\obj\Debug\net7.0\ref\RomantoInt.dll

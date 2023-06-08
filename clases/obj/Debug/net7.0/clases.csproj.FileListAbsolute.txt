@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\personal-proyects\clases\bin\Debug\net7.0\clases.exe
+C:\Users\david\source\repos\personal-proyects\clases\bin\Debug\net7.0\clases.deps.json
+C:\Users\david\source\repos\personal-proyects\clases\bin\Debug\net7.0\clases.runtimeconfig.json
+C:\Users\david\source\repos\personal-proyects\clases\bin\Debug\net7.0\clases.dll
+C:\Users\david\source\repos\personal-proyects\clases\bin\Debug\net7.0\clases.pdb
+C:\Users\david\source\repos\personal-proyects\clases\obj\Debug\net7.0\clases.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\personal-proyects\clases\obj\Debug\net7.0\clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\personal-proyects\clases\obj\Debug\net7.0\clases.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\personal-proyects\clases\obj\Debug\net7.0\clases.AssemblyInfo.cs
+C:\Users\david\source\repos\personal-proyects\clases\obj\Debug\net7.0\clases.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\personal-proyects\clases\obj\Debug\net7.0\clases.dll
+C:\Users\david\source\repos\personal-proyects\clases\obj\Debug\net7.0\refint\clases.dll
+C:\Users\david\source\repos\personal-proyects\clases\obj\Debug\net7.0\clases.pdb
+C:\Users\david\source\repos\personal-proyects\clases\obj\Debug\net7.0\clases.genruntimeconfig.cache
+C:\Users\david\source\repos\personal-proyects\clases\obj\Debug\net7.0\ref\clases.dll
