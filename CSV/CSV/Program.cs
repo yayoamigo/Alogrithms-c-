@@ -8,18 +8,27 @@ namespace CSVReader
         static void Main(string[] args)
         {
 
-            var path = @"C:\Users\david\Desktop\directory\addresses.csv";
-            string[] lines = File.ReadAllLines(path);
-
-            List<string> names = new List<string>();
-
-            for (int i = 0; i < lines.Length; i++)
+            FileStream filestream = new FileStream(@"C:\Users\david\Desktop\directory\addresses.csv", FileMode.Open);
+            using(var reader = new StreamReader(filestream))
             {
-                string[] name = lines[i].Split(',');
-                names.Add(name[0]);
+                string line;
+                while ((line = reader.ReadLine()) != null)
+                {
+                    var cells = line.Split(',').ToList();
+                    if (RowHasData(cells))
+                    {
+                        foreach (var cell in cells)
+                        {
+                            Console.WriteLine(cell);
+                        }
+                    }
+                }
             }
 
-            Console.WriteLine(names[1]);
+            static bool RowHasData(List<string> cells)
+            {
+                return cells.Any(x => x.Length > 0);
+            }
         }
     }
 }
