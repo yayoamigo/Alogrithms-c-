@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\personal-proyects\BalanceBrackets\bin\Debug\net7.0\BalanceBrackets.exe
+C:\Users\david\source\repos\personal-proyects\BalanceBrackets\bin\Debug\net7.0\BalanceBrackets.deps.json
+C:\Users\david\source\repos\personal-proyects\BalanceBrackets\bin\Debug\net7.0\BalanceBrackets.runtimeconfig.json
+C:\Users\david\source\repos\personal-proyects\BalanceBrackets\bin\Debug\net7.0\BalanceBrackets.dll
+C:\Users\david\source\repos\personal-proyects\BalanceBrackets\bin\Debug\net7.0\BalanceBrackets.pdb
+C:\Users\david\source\repos\personal-proyects\BalanceBrackets\obj\Debug\net7.0\BalanceBrackets.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\personal-proyects\BalanceBrackets\obj\Debug\net7.0\BalanceBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\personal-proyects\BalanceBrackets\obj\Debug\net7.0\BalanceBrackets.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\personal-proyects\BalanceBrackets\obj\Debug\net7.0\BalanceBrackets.AssemblyInfo.cs
+C:\Users\david\source\repos\personal-proyects\BalanceBrackets\obj\Debug\net7.0\BalanceBrackets.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\personal-proyects\BalanceBrackets\obj\Debug\net7.0\BalanceBrackets.dll
+C:\Users\david\source\repos\personal-proyects\BalanceBrackets\obj\Debug\net7.0\refint\BalanceBrackets.dll
+C:\Users\david\source\repos\personal-proyects\BalanceBrackets\obj\Debug\net7.0\BalanceBrackets.pdb
+C:\Users\david\source\repos\personal-proyects\BalanceBrackets\obj\Debug\net7.0\BalanceBrackets.genruntimeconfig.cache
+C:\Users\david\source\repos\personal-proyects\BalanceBrackets\obj\Debug\net7.0\ref\BalanceBrackets.dll

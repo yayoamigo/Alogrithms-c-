@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\personal-proyects\CSV\CSV\obj\Debug\net6.0\CSV.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\personal-proyects\CSV\CSV\obj\Debug\net6.0\CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\personal-proyects\CSV\CSV\obj\Debug\net6.0\CSV.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\personal-proyects\CSV\CSV\obj\Debug\net6.0\CSV.AssemblyInfo.cs
+C:\Users\david\source\repos\personal-proyects\CSV\CSV\obj\Debug\net6.0\CSV.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\personal-proyects\CSV\CSV\bin\Debug\net6.0\CSV.exe
+C:\Users\david\source\repos\personal-proyects\CSV\CSV\bin\Debug\net6.0\CSV.deps.json
+C:\Users\david\source\repos\personal-proyects\CSV\CSV\bin\Debug\net6.0\CSV.runtimeconfig.json
+C:\Users\david\source\repos\personal-proyects\CSV\CSV\bin\Debug\net6.0\CSV.dll
+C:\Users\david\source\repos\personal-proyects\CSV\CSV\bin\Debug\net6.0\CSV.pdb
+C:\Users\david\source\repos\personal-proyects\CSV\CSV\obj\Debug\net6.0\CSV.dll
+C:\Users\david\source\repos\personal-proyects\CSV\CSV\obj\Debug\net6.0\refint\CSV.dll
+C:\Users\david\source\repos\personal-proyects\CSV\CSV\obj\Debug\net6.0\CSV.pdb
+C:\Users\david\source\repos\personal-proyects\CSV\CSV\obj\Debug\net6.0\CSV.genruntimeconfig.cache
+C:\Users\david\source\repos\personal-proyects\CSV\CSV\obj\Debug\net6.0\ref\CSV.dll

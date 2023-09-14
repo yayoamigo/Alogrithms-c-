@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\kinteger",
+    "\\LongestPalindrome",
+    "\\LongestPalindrome\\LongestPalindrome",
+    "\\LongestPre",
+    "\\LongestPre\\LongestPre"
   ],
+  "SelectedNode": "\\kinteger\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

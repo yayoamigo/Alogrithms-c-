@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Ecommerce",
+    "\\Ecommerce\\Controllers",
+    "\\Ecommerce\\CustomValidators",
+    "\\Ecommerce\\Models"
+  ],
+  "SelectedNode": "\\Ecommerce\\Models\\Order.cs",
+  "PreviewInSolutionExplorer": false
+}

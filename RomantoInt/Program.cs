@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace RomantoInt
 {
@@ -6,49 +7,43 @@ namespace RomantoInt
     {
         public static void Main(string[] args)
         {
-           int print = new Solution().RomanToInt("MCMXCIV");
-           Console.WriteLine(print);
+            
+            Console.WriteLine(new Solution().LengthOfLongestSubstring("abba"));
+        }
+        }
 
-        }
-        }
-        public class Solution
-        {
-            public static Dictionary<string, int> romanNumerals = new Dictionary<string, int>()
+    public class Solution
     {
-        { "I", 1 },
-        { "V", 5 },
-        { "X", 10 },
-        { "L", 50 },
-        { "C", 100 },
-        { "D", 500 },
-        { "M", 1000 }
-    };
+        public int LengthOfLongestSubstring(string s)
+        {
+        int max = 0;
+        int begin = 0;
+        Dictionary<char, int> map = new Dictionary<char, int>();
 
-            private int result;
-
-            public int Result
+            for (int i = 0; i < s.Length; i++)
             {
-                get { return result; }
-                set { result = value; }
-            }
-
-            public int RomanToInt(string s)
-            {
-                for (int i = 0; i < s.Length; i++)
+            if (map.ContainsKey(s[i]))
                 {
-                    if (i < s.Length - 1 && romanNumerals[s[i].ToString()] < romanNumerals[s[i + 1].ToString()])
-                    {
-                        Result -= romanNumerals[s[i].ToString()];
-                    }
-                    else
-                    {
-                        Result += romanNumerals[s[i].ToString()];
-                    }
-                }
-
-                return Result;
+                    begin = Math.Max(begin, map[s[i]] + 1);
+                    map[s[i]] = i;
             }
-        }
+            else
+                {
+                    map.Add(s[i], i);
+            }
+                Console.WriteLine($"{i} is the end");
+                Console.WriteLine($"{begin} is the begining");
+                Console.WriteLine($"the max until now is {max}");
+                Console.WriteLine("the operation is {0}", i - begin + 1);
+            max = Math.Max(max, i - begin + 1);
+            }
 
+            return max;
+
+
+        }
     }
+
+
+}
 
